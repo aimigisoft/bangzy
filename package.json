@@ -1,0 +1,26 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "bangzy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aimigisoft/bangzy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aimigisoft/bangzy/issues"
+  },
+  "homepage": "https://github.com/aimigisoft/bangzy#readme",
+  "devDependencies": {
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "vue-server-renderer": "^2.6.11"
+  }
+}

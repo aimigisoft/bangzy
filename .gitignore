@@ -1,0 +1,15 @@
+#logs
+logs
+*.log
+package-lock.json
+
+
+# runtime data
+.env
+
+# dependency diretiories
+node_modules/
+
+#editor direatories and files
+
+.vscode/
